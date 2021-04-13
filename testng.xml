@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="D:/Bills2U_Automation/Bills2U_Automation/src/test/java/bills2u_root/Root_Class_TestNG.java">
+    <classes>
+        <class name="bills2u_root.Root_Class_TestNG"></class>
+    </classes>
+    </test>
+</suite>
